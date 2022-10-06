@@ -1,2 +1,2 @@
-# exercicioLoiane
+# exerciciosLoiane
 Exercicio do curso da Loiane.
